@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button 'Mukesh' to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color scheme do you prefer for the button 'Mukesh'?\", \"option1\": \"Bright color to stand out\", \"option2\": \"Neutral color to blend in\"}], \"input_token_count\": 291, \"output_token_count\": 97, \"time_taken\": \"0:00:01.115721\"}",
+        "timestamp": "10092024165121",
+        "message_id": "guest10092024165112"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I will add a button with the text Mukesh.",
         "timestamp": "10092024165114",
