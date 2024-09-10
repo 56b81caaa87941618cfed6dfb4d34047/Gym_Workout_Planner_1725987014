@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd a form with password and email field"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nAdd a button with text Mukesh\nUser: add a simple login Form\nAI: Okay, I'm on it to change the background color to red and green.\nUser: Chnage the Backgroung color red and green\nAI: Okay, I will add a button with the text Mukesh.\n\nThis is the user's current request of changes to be made:\nadd a simple login Form"
     }
 ]
