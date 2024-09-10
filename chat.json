@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm on it to change the background color to red and green.",
+        "message_id": "guest10092024165249",
+        "timestamp": "10092024165253",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Chnage the Backgroung color red and green",
         "message_id": "guest10092024165249",
