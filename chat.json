@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What design style do you prefer for the login form - modern and minimalistic or classic and detailed?\", \"option1\": \"Modern and minimalistic\", \"option2\": \"Classic and detailed\"}, {\"question 2\": \"What specific fields would you like to include in the login form - just email and password or do you want to add options like 'remember me'?\", \"option1\": \"Just email and password\", \"option2\": \"Include 'remember me' option\"}], \"input_token_count\": 341, \"output_token_count\": 111, \"time_taken\": \"0:00:01.179811\"}",
+        "message_id": "guest10092024165419",
+        "timestamp": "10092024165555",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a confirmation password field\", \"checked\": false}, {\"feature\": \"Include a remember me checkbox\", \"checked\": true}, {\"feature\": \"Add a 'forgot password?' link\", \"checked\": true}, {\"feature\": \"Implement password strength meter\", \"checked\": false}, {\"feature\": \"Design a user-friendly error message display\", \"checked\": true}], \"input_token_count\": 225, \"output_token_count\": 89, \"time_taken\": \"0:00:01.292563\"}",
         "message_id": "guest10092024165525",
