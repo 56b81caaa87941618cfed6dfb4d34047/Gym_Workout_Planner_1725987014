@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a confirmation password field\", \"checked\": false}, {\"feature\": \"Include a remember me checkbox\", \"checked\": true}, {\"feature\": \"Add a 'forgot password?' link\", \"checked\": true}, {\"feature\": \"Implement password strength meter\", \"checked\": false}, {\"feature\": \"Design a user-friendly error message display\", \"checked\": true}], \"input_token_count\": 225, \"output_token_count\": 89, \"time_taken\": \"0:00:01.292563\"}",
+        "message_id": "guest10092024165525",
+        "timestamp": "10092024165536",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you prefer for the form's design? Would you like it to be minimalist or more vibrant with colors?\", \"option1\": \"Minimalist\", \"option2\": \"Vibrant with colors\"}, {\"question 2\": \"Should the form include any validation messages for the email and password fields? If so, do you prefer inline messages or pop-up alerts?\", \"option1\": \"Inline messages\", \"option2\": \"Pop-up alerts\"}], \"input_token_count\": 271, \"output_token_count\": 107, \"time_taken\": \"0:00:02.003509\"}",
         "message_id": "guest10092024165525",
