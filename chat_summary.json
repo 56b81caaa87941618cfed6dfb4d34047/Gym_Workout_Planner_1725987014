@@ -9,6 +9,30 @@
     },
     {
         "role": "user",
+        "content": "add a form with password and email field",
+        "message_id": "guest10092024165525",
+        "timestamp": "10092024165528",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I\u2019m adding a form with password and email fields.",
+        "message_id": "guest10092024165525",
+        "timestamp": "10092024165528",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "The user requested the addition of a button labeled \"Mukesh\" in the app. In response, the AI assistant posed two questions concerning the button's placement and color scheme. The first question asked where the user would like the button to be positioned, offering the options of \"At the top of the screen\" or \"At the bottom of the screen.\" The second question inquired about the preferred color scheme for the button, providing the choices of \"Bright color to stand out\" or \"Neutral color to blend in.\" The AI acknowledged the user's request and confirmed that it would proceed with adding the button.",
+        "timestamp": "10092024165528",
+        "message_id": "guest10092024165525"
+    },
+    {
+        "role": "user",
         "content": "add a simple login Form",
         "message_id": "guest10092024165419",
         "timestamp": "10092024165420",
@@ -24,12 +48,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Add a button with text Mukesh",
-        "timestamp": "10092024165420",
-        "message_id": "guest10092024165419"
     },
     {
         "role": "chat_ui_checklist",
@@ -73,24 +91,6 @@
         "message_id": "guest10092024165112",
         "timestamp": "10092024165124",
         "component_file_name": "simple_cta_component_1725987017",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button 'Mukesh' to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color scheme do you prefer for the button 'Mukesh'?\", \"option1\": \"Bright color to stand out\", \"option2\": \"Neutral color to blend in\"}], \"input_token_count\": 291, \"output_token_count\": 97, \"time_taken\": \"0:00:01.115721\"}",
-        "message_id": "guest10092024165112",
-        "timestamp": "10092024165121",
-        "component_file_name": "simple_cta_component_1725987017",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I will add a button with the text Mukesh.",
-        "message_id": "guest10092024165112",
-        "timestamp": "10092024165114",
-        "component_file_name": "",
         "div_id": "",
         "div_action": ""
     }
