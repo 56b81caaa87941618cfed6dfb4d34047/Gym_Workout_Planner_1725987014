@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you prefer for the form's design? Would you like it to be minimalist or more vibrant with colors?\", \"option1\": \"Minimalist\", \"option2\": \"Vibrant with colors\"}, {\"question 2\": \"Should the form include any validation messages for the email and password fields? If so, do you prefer inline messages or pop-up alerts?\", \"option1\": \"Inline messages\", \"option2\": \"Pop-up alerts\"}], \"input_token_count\": 271, \"output_token_count\": 107, \"time_taken\": \"0:00:02.003509\"}",
+        "message_id": "guest10092024165525",
+        "timestamp": "10092024165533",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form with password and email field",
         "message_id": "guest10092024165525",
