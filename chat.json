@@ -15,5 +15,14 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Add a button with text Mukesh",
+        "message_id": "guest10092024165112",
+        "timestamp": "10092024165114",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
     }
 ]
