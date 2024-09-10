@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you please specify which sections of the app you want the background color to be changed to red and green?\", \"option1\": \"All sections\", \"option2\": \"Specific sections only\"}, {\"question 2\": \"Do you have a preference for how the red and green colors should be combined or should they be used separately?\", \"option1\": \"Combined gradient\", \"option2\": \"Separate sections with different colors\"}], \"input_token_count\": 324, \"output_token_count\": 101, \"time_taken\": \"0:00:01.332482\"}",
+        "timestamp": "10092024165257",
+        "message_id": "guest10092024165249"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm on it to change the background color to red and green.",
         "timestamp": "10092024165253",
