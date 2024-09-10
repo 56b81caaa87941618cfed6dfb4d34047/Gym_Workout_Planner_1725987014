@@ -10,55 +10,88 @@
     {
         "role": "user",
         "content": "add a simple login Form",
+        "message_id": "guest10092024165419",
+        "timestamp": "10092024165420",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm working on adding a simple login form now.",
+        "message_id": "guest10092024165419",
+        "timestamp": "10092024165420",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Add a button with text Mukesh",
         "timestamp": "10092024165420",
         "message_id": "guest10092024165419"
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add color picker for background customization\", \"checked\": false}, {\"feature\": \"Implement gradient background options\", \"checked\": true}, {\"feature\": \"Enable user-defined themes\", \"checked\": false}, {\"feature\": \"Add reset button for background color\", \"checked\": true}, {\"feature\": \"Provide tutorial on background customization\", \"checked\": false}], \"input_token_count\": 278, \"output_token_count\": 86, \"time_taken\": \"0:00:01.022464\"}",
+        "message_id": "guest10092024165249",
         "timestamp": "10092024165300",
-        "message_id": "guest10092024165249"
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you please specify which sections of the app you want the background color to be changed to red and green?\", \"option1\": \"All sections\", \"option2\": \"Specific sections only\"}, {\"question 2\": \"Do you have a preference for how the red and green colors should be combined or should they be used separately?\", \"option1\": \"Combined gradient\", \"option2\": \"Separate sections with different colors\"}], \"input_token_count\": 324, \"output_token_count\": 101, \"time_taken\": \"0:00:01.332482\"}",
+        "message_id": "guest10092024165249",
         "timestamp": "10092024165257",
-        "message_id": "guest10092024165249"
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Okay, I'm on it to change the background color to red and green.",
+        "message_id": "guest10092024165249",
         "timestamp": "10092024165253",
-        "message_id": "guest10092024165249"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "Chnage the Backgroung color red and green",
+        "message_id": "guest10092024165249",
         "timestamp": "10092024165252",
-        "message_id": "guest10092024165249"
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text Mukesh\", \"checked\": true}, {\"feature\": \"Include an option for users to customize button colors\", \"checked\": false}, {\"feature\": \"Add button size selection options\", \"checked\": false}, {\"feature\": \"Implement button hover animations\", \"checked\": false}, {\"feature\": \"Create a button category for common actions\", \"checked\": true}, {\"feature\": \"Allow users to assign actions to buttons\", \"checked\": false}], \"input_token_count\": 245, \"output_token_count\": 112, \"time_taken\": \"0:00:01.902148\"}",
+        "message_id": "guest10092024165112",
         "timestamp": "10092024165124",
-        "message_id": "guest10092024165112"
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button 'Mukesh' to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color scheme do you prefer for the button 'Mukesh'?\", \"option1\": \"Bright color to stand out\", \"option2\": \"Neutral color to blend in\"}], \"input_token_count\": 291, \"output_token_count\": 97, \"time_taken\": \"0:00:01.115721\"}",
+        "message_id": "guest10092024165112",
         "timestamp": "10092024165121",
-        "message_id": "guest10092024165112"
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Okay, I will add a button with the text Mukesh.",
+        "message_id": "guest10092024165112",
         "timestamp": "10092024165114",
-        "message_id": "guest10092024165112"
-    },
-    {
-        "role": "user",
-        "content": "Add a button with text Mukesh",
-        "timestamp": "10092024165114",
-        "message_id": "guest10092024165112"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
