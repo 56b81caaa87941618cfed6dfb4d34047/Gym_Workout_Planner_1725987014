@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Remember Me' checkbox\", \"checked\": false}, {\"feature\": \"Include a 'Forgot Password?' link\", \"checked\": true}, {\"feature\": \"Add social media login options (Facebook, Google)\", \"checked\": false}, {\"feature\": \"Incorporate input validation messages\", \"checked\": true}, {\"feature\": \"Design a loading spinner for submission\", \"checked\": false}], \"input_token_count\": 295, \"output_token_count\": 96, \"time_taken\": \"0:00:01.235770\"}",
+        "message_id": "guest10092024165419",
+        "timestamp": "10092024165558",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What design style do you prefer for the login form - modern and minimalistic or classic and detailed?\", \"option1\": \"Modern and minimalistic\", \"option2\": \"Classic and detailed\"}, {\"question 2\": \"What specific fields would you like to include in the login form - just email and password or do you want to add options like 'remember me'?\", \"option1\": \"Just email and password\", \"option2\": \"Include 'remember me' option\"}], \"input_token_count\": 341, \"output_token_count\": 111, \"time_taken\": \"0:00:01.179811\"}",
         "message_id": "guest10092024165419",
