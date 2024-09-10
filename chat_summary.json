@@ -6,5 +6,11 @@
         "timestamp": "1725987017",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I will add a button with the text Mukesh.",
+        "timestamp": "10092024165114",
+        "message_id": "guest10092024165112"
     }
 ]
