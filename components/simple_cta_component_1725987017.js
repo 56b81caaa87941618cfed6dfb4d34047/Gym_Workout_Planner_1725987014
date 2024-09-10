@@ -20,8 +20,11 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                 <div id="cta-button-container" class="flex">
                     <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">
                         Start Your Fitness Journey
+                        Start Your Fitness Journey
                     </a>
-                </div>
+                    <a id="mukesh-button" href="#" class="flex-1 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 ml-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">
+                        Mukesh
+                    </a>
             </div>
         </div>
     </section>
