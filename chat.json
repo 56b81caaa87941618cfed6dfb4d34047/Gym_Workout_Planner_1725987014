@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text Mukesh\", \"checked\": true}, {\"feature\": \"Include an option for users to customize button colors\", \"checked\": false}, {\"feature\": \"Add button size selection options\", \"checked\": false}, {\"feature\": \"Implement button hover animations\", \"checked\": false}, {\"feature\": \"Create a button category for common actions\", \"checked\": true}, {\"feature\": \"Allow users to assign actions to buttons\", \"checked\": false}], \"input_token_count\": 245, \"output_token_count\": 112, \"time_taken\": \"0:00:01.902148\"}",
+        "message_id": "guest10092024165112",
+        "timestamp": "10092024165124",
+        "component_file_name": "simple_cta_component_1725987017",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button 'Mukesh' to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color scheme do you prefer for the button 'Mukesh'?\", \"option1\": \"Bright color to stand out\", \"option2\": \"Neutral color to blend in\"}], \"input_token_count\": 291, \"output_token_count\": 97, \"time_taken\": \"0:00:01.115721\"}",
         "message_id": "guest10092024165112",
