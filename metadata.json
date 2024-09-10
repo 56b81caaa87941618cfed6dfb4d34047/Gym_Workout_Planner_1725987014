@@ -4,5 +4,6 @@
     "project_description": "an app for making the Gym",
     "creation_time": "2024-09-10 16:50:14.722249",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "This image features a vibrant color scheme dominated by shades of pink and purple, showcasing a surreal, otherworldly landscape with stylized, luminous celestial objects and dramatic lighting effects."
 }
