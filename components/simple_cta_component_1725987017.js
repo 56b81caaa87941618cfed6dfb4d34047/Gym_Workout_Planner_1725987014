@@ -2,7 +2,7 @@
 INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
 -->
 <template>
-    <section id="cta-component" class="bg-gradient-to-r from-pink-500 to-purple-600 flex-1 p-8" style="min-height: 630px;"><div id="cta-inner-container" class="max-w-screen-xl mx-auto bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg p-8" style=""><div id="cta-content" class="max-w-screen-sm mx-auto text-center" style=""><div id="cta-title-container" class="flex" style=""><h2 id="cta-title" class="flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-white" style="">
+    <section id="cta-component" style="min-height: 750px" class="bg-gradient-to-r from-pink-500 to-purple-600 flex-1 p-8" ><div id="cta-inner-container" class="max-w-screen-xl mx-auto bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg p-8" style=""><div id="cta-content" class="max-w-screen-sm mx-auto text-center" style=""><div id="cta-title-container" class="flex" style=""><h2 id="cta-title" class="flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-white" style="">
                         Transform Your Body, Transform Your Life
                     </h2></div> <div id="cta-subtitle-container" class="flex" style=""><p id="cta-subtitle" class="flex-1 mb-6 font-light text-pink-100 md:text-lg" style="">
                         Join our fitness revolution and unlock your full potential with personalized workout plans and expert guidance
